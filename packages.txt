@@ -1,6 +1,7 @@
+openjdk-11-jdk
 fonts-nanum
-fonts-nanum-coding
-fonts-nanum-extra
-default-jdk
 g++
 python3-dev
+build-essential
+curl
+git
