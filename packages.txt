@@ -3,14 +3,7 @@ fonts-nanum
 g++
 python3-dev
 build-essential
-curl
-git
 libjpeg-dev
 zlib1g-dev
-libtiff-dev
-libfreetype6-dev
-liblcms2-dev
-libwebp-dev
-libharfbuzz-dev
-libfribidi-dev
-libxcb1-dev
+libxml2-dev
+libxslt-dev
